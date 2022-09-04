@@ -6,7 +6,7 @@ function HomePage(props) {
   return (
     <>
       <Head>
-        <title>React Meetups</title>
+        <title>React Places</title>
         <meta
           name="description"
           content="Browse a huge list of highly active React Meetups"
