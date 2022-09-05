@@ -4,7 +4,7 @@ import Link from "next/link";
 function MainNavigation() {
   return (
     <header className={classes.header}>
-      <div className={classes.logo}>React Places</div>
+      <div className={classes.logo}>React Places in Krakow</div>
       <nav>
         <ul>
           <li>
